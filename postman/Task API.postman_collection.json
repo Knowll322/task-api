@@ -6,7 +6,7 @@
   "variable": [
     {
       "key": "baseUrl",
-      "value": "http://127.0.0.1:8000"
+      "value": "https://app-e7c164c4-d2ca-4b29-8922-0914697cd73e.cleverapps.io"
     }
   ],
   "item": [
@@ -17,6 +17,10 @@
         "header": [
           {
             "key": "Accept",
+            "value": "application/json"
+          },
+          {
+            "key": "Content-Type",
             "value": "application/json"
           }
         ],
